@@ -2,4 +2,4 @@
 
 This folder contains all the reports, google docs links and templates.
 
-Week2 journal: 
+Week 3 journal: [Google Docs](https://docs.google.com/document/d/1BzMd5A_GQaH0y1K1qC4U14ODyWokWU3ofBUvmm-Qekc/edit?usp=sharing)
