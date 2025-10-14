@@ -1,7 +1,3 @@
-# Embedded-Systems-Project
+# Sensor PCB
 
-This is our repositry of the ESP project.
-
-Weekly journals are closed 6pm every sunday.
-
-Weekly meetings every Thursday 13:00 after lecture.
+This folder contains CAD files for PCB design of the Line Array Sensor.
