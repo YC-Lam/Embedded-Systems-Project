@@ -1,7 +1,5 @@
-# Embedded-Systems-Project
+# Reports
 
-This is our repositry of the ESP project.
+This folder contains all the reports, google docs links and templates.
 
-Weekly journals are closed 6pm every sunday.
-
-Weekly meetings every Thursday 13:00 after lecture.
+Week2 journal: 
